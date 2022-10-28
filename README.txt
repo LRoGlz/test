@@ -6,4 +6,7 @@ para salir sin salvar pulsamos esc + :q
 Para escribir en vim pulsamos la i y entramos en el modo insertar
 con la u volvemos al estado antserior a insertar
 
+
+Para hacer stash en git usar comando git stash y para recuperar los cambios git stash pop
+
 recordar hacer git add * para añadir todos los archivos modificados antes de hacer commit -m
