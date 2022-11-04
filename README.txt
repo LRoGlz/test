@@ -15,3 +15,8 @@ Para crear una rama nueva: git checkout -b <nombreRama>
 para movernos de rama se quita el -b:    git checkout <nombreRama>
 Para ver en que rama estamos: git branch
 Para ver listado de ramas: git branch -l
+
+
+Para mergear la rama vamos a la rama raiz(git checkout) (De la que sale la rama) y hacemos: git merge <nombreRama>
+
+git log -- para ver un resumen de commits
